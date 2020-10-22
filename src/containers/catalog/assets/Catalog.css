@@ -1,0 +1,28 @@
+.title-container{
+    text-align: center;
+    background: rgb(183,228,223);
+    background: linear-gradient(90deg, rgba(183,228,223,1) 0%, rgba(207,226,234,1) 35%, rgba(224,224,241,1) 100%);
+    margin: 0;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    font-size: 6rem;
+    margin: 0;
+    align-self: center;
+}
+.products-container{
+    display: flex;
+    justify-content: center;
+    margin: 70px 50px;
+    flex-wrap: wrap;
+
+}
+
+.img-cat{
+    display: block;
+    width: 300px;
+}

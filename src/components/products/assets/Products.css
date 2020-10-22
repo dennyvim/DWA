@@ -1,0 +1,14 @@
+.product-container{
+    width: 250px;
+    height: 300px;
+    margin: 50px;
+    text-align: center;
+}
+.product-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+}
+.product-price{
+    font-size: 25px;
+}

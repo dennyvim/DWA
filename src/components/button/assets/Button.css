@@ -1,0 +1,14 @@
+.button-container{
+  background-color: #ABE5D9;
+  width: 300px;
+  height: 60px;
+  text-align: center;
+  margin: 10px 30px 10px 30px;
+  border-radius: 45px;
+}
+.button-container p{
+  font-size: 2em;
+  margin: 0;
+  padding: 10px;
+  font-weight: 700;
+}

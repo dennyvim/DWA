@@ -1,0 +1,36 @@
+.title_personalize {
+  text-align: center;
+  background-color: #fbdffb;
+}
+
+.title_personalize h1 {
+  margin: 0px;
+  text-align: center;
+  padding: 40px 0px;
+  font-size: 60px;
+}
+
+.container_steps {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.step_flecha{
+  display: block;
+  height: 80px;
+}
+
+.container_products {
+  display: flex;
+  justify-content: space-around;
+}
+
+.container_btn_final{
+  display: flex;
+  justify-content: center;
+}
+
+.main-personalize{
+  margin-bottom: 50px;
+}

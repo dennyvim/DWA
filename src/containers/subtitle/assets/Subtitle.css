@@ -1,0 +1,17 @@
+.subtitle_step_1{
+  background-color: #abe5d9;
+  border-radius: 20px;
+  display: inline-block;
+  margin: 0;
+  margin-top: 50px;
+  margin-left: 10%;
+  font-weight: unset;
+  padding: 5px 25px;
+  width: max-content;
+}
+
+.btn_final {
+  font-weight: bold;
+  display: block;
+  padding: 5px 70px;
+}

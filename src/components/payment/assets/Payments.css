@@ -1,0 +1,11 @@
+.payments{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+  .payments img{
+    width: auto;
+    height: 50px;
+    margin-left: 30px;
+  }

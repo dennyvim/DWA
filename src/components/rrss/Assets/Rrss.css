@@ -1,0 +1,12 @@
+.rrss-container{
+  display: flex;
+  flex-direction: column;
+  z-index: 1000;
+}
+.rrss-container img{
+  background-color: #ABE5D9;
+  padding: 7px;
+  border-radius: 100px;
+  width: 40px;
+  margin: 5px 0px;
+}
